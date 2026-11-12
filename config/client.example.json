@@ -1,0 +1,9 @@
+{
+  "SPLAV_DEMO": true,
+  "SUPABASE_URL": "http://127.0.0.1:54321",
+  "SUPABASE_ANON_KEY": "replace-with-local-publishable-or-anon-key",
+  "SPLAV_EMAIL": "organizer-a@example.com",
+  "SPLAV_PASSWORD": "local-splav-demo-2026",
+  "SPLAV_GROUP_ID": "00000000-0000-4000-8000-000000000001",
+  "SPLAV_PROFILE": "client-a"
+}

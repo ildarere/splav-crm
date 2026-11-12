@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+
+# Build output and caches
+dist/
+build/
+.next/
+out/
+.nuxt/
+.output/
+.vite/
+.cache/
+coverage/
+*.tsbuildinfo
+
+# Flutter, Python, and local development tools
+.dart_tool/
+.flutter-plugins-dependencies
+__pycache__/
+*.py[cod]
+*.iml
+/.tools/
+/.codex/
+/NVIDIA Corporation/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.*.example
+/config/*.local.json
+
+# Supabase local state
+supabase/.temp/
+supabase/.branches/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor and OS files
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
